@@ -1,0 +1,7 @@
+node_modules
+kaili/node_modules
+kaili/dist
+*.log
+.DS_Store
+.env
+.env.local
